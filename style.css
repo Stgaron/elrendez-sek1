@@ -1,0 +1,29 @@
+body {
+    margin: auto;
+    width: 1500px;
+    background-color: darkgoldenrod;
+
+}
+img {
+    max-width: 100%;
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+nav {
+    background-color: aquamarine;
+
+}
+article {
+    background-color: honeydew;
+    width: 1250px;
+}
+footer {
+    text-align: center;
+    background-color: blueviolet;
+}
+.elrendezesek{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
